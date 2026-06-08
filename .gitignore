@@ -1,0 +1,6 @@
+build/
+DerivedData/
+userPreferences.*
+*.4DD
+*.4DIndy
+*.Match

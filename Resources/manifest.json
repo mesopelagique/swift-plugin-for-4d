@@ -1,0 +1,11 @@
+{
+	"name": "Swift",
+	"id": 15000,
+	"commands": [
+		{
+			"theme": "Swift",
+			"syntax": "Swift_Greeting(&T):T",
+			"threadSafe": true
+		}
+	]
+}
